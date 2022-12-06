@@ -1,6 +1,6 @@
 {
-  "yts": {
-    "name": "YTS",
+  "yts_2": {
+    "name": "YTS_2",
     "enabled": true,
     "languages": [
       "en"
